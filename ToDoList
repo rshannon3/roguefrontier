@@ -1,0 +1,10 @@
+TODO LIST
+
+Menu Screen before game Launch
+
+-Fix double remove call in MapUnitList, was originally used to fix hitboxes being double up
+-Change GUI compoenents into a more sensible heirarchy to avoid reusing code
+-Clean Up view and mapview
+-Pathfinding
+-Make it easier to change the size of mobs/mapunits
+-inventory interaction dissapearing after leaving proximity?

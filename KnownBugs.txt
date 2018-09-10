@@ -1,0 +1,7 @@
+Known Bugs
+
+- After game starts, if key pressed w/o window focus, movement does not work
+- Key input needs rework
+- cannot take damage while in hitstun
+- One frame linking attacks wont allow the player to change its angle
+	so the attack stays at the same angle
